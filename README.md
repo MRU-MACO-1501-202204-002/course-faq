@@ -38,7 +38,7 @@ I am, with permission, very much using much of this wholesale from Patrick Perri
 
 > _A. Designing and developing algorithms: the set of instructions a computer needs to solve a problem. Common tools and techniques will be taught and you will employ them to write computer programs. You  also learn to explain and 'debug' these algorithms._ 
 
-### Q. What's this course about?
+### Q. What happens if I get sick or am absent?
 
 > _A. If you are symptomatic with an infectious disease, stay home and fill in the [Illness Report Form](https://docs.google.com/forms/d/e/1FAIpQLScBe2m-8mTIOI6mPtGNGhajTbnBb62QWOEFqd4nIv9gacoacg/viewform). You are responsible for notifying your instructor and should actively communicate with your classmates to get help with what you missed._
 > 
